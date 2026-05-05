@@ -6,6 +6,9 @@ This repository contains personal notes on irrigation systems, embedded software
 
 ### Contents
 
+* [FAO56 extraterrestrial radiation](https://github.com/cloclacordis/applied-ecology-notes/blob/main/notes/01-evapotranspiration-and-radiation.md)  
+* [Wadi Sirhan](https://github.com/cloclacordis/applied-ecology-notes/blob/main/notes/02-nizhnevartovsk-as-sirhan.md)
+
 * * *
 
 ### License
